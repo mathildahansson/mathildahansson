@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathildahansson!
 - 👀 I’m interested in coding, powerlifting and dog-related stuff!
-- 🌱 I’m currently studying webdevelopment at Glimåkra Folkhögskola.
+- 🌱 I’m currently studying web development at Glimåkra Folkhögskola.
 - 💞️ I’m looking to collaborate on CSS-art in the future.
 - 📫 Follow me on my journey!
 
